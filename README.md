@@ -1,7 +1,20 @@
 # Website-Kasir-Restoran
 
-Aplikasi web kasir restoran ini dibuat menggunakan PHP, MySQL, HTML, CSS, dan JavaScript. Sistem ini memiliki tiga modul utama, yaitu User, Kasir, dan Admin.
+🍽️ Nyam Resto
+Selamat datang di repositori GitHub resmi untuk Nama Restoran Anda! Repositori ini berisi semua aset digital, kode sumber, dan dokumentasi yang digunakan untuk mengembangkan dan memelihara situs web resmi kami, aplikasi seluler, serta sistem internal lainnya.
 
-Modul User digunakan oleh pelanggan untuk login, melihat menu berdasarkan kategori, melihat detail produk, menambahkan pesanan ke keranjang, serta melakukan checkout. Modul Kasir berfungsi mencatat pesanan pelanggan langsung, mengelola pesanan dari user, menghitung biaya total, dan mencetak struk. Sementara itu, modul Admin menjadi pusat kendali, di mana admin dapat login untuk mengatur data user, mengelola menu, serta mengubah status pesanan.
+🚀 Fitur Utama
+Situs Web Interaktif: Antarmuka yang ramah pengguna untuk melihat menu, reservasi, dan informasi kontak.
 
-Alur sistem digambarkan dalam flowchart, dimulai dari login, lalu diarahkan sesuai peran masing-masing: user menuju dashboard dan proses pemesanan, kasir menuju pencatatan pesanan hingga cetak struk, dan admin menuju pengelolaan data serta menu.
+Sistem Pemesanan Online: Pelanggan dapat memesan makanan favorit mereka untuk diantar atau diambil di tempat.
+
+Reservasi Meja: Memungkinkan pelanggan memesan meja dengan mudah.
+
+Galeri Foto: Menampilkan suasana dan hidangan lezat kami.
+
+Blog: Artikel menarik tentang kuliner, tips memasak, dan cerita di balik dapur kami.
+
+🛠️ Teknologi yang Digunakan
+- PHP Native
+- MySQL
+- HTML, CSS, Js
