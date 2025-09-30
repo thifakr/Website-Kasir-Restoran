@@ -1,6 +1,6 @@
-# Ciao Bello
+# Warung Nusantara
 
-Ciao Bello adalah sebuah platform manajemen restoran berbasis web yang dirancang secara komprehensif untuk memudahkan pelanggan, staf kasir, dan pemilik restoran. Aplikasi ini menyediakan solusi terpadu yang menghubungkan semua pihak melalui tiga modul utama yang bekerja secara sinergis: modul User, modul Kasir, dan modul Admin.
+Warung Nusantrara adalah sebuah platform manajemen restoran berbasis web yang dirancang secara komprehensif untuk memudahkan pelanggan, staf kasir, dan pemilik restoran. Aplikasi ini menyediakan solusi terpadu yang menghubungkan semua pihak melalui tiga modul utama yang bekerja secara sinergis: modul User, modul Kasir, dan modul Admin.
 
 ## Halaman
 ### Halaman User
